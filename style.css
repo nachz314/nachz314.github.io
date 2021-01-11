@@ -97,7 +97,7 @@ ul li a {
     margin-right: auto;
   }
   .sidebar {
-    flex: 1;
+    flex: 0.7;
     margin-right: 1.875rem;
     text-align: left;
     padding: 2.5rem;
