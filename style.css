@@ -55,6 +55,7 @@ body {
 .social a {
   display: inline;
   margin: 0.5rem;
+  margin-left: 0rem;
 }
 
 .social_icon {
