@@ -9,6 +9,12 @@ body {
   line-height: 1.625rem;
 }
 
+/* BARRA DE Linguagem */
+
+.language{
+  text-align: right;
+}
+
 /* BARRA DE NAVEGAÇAO */
 
 .sidebar {
@@ -62,7 +68,7 @@ body {
   width: 1.4rem;
 }
 
-.h1_About_me {
+.About_me_h1 {
   margin-top: 0;
 }
 
@@ -75,14 +81,25 @@ h1 {
 }
 
 ul li {
+  margin-top: 0.625rem;
   margin-bottom: 0.625rem;
   list-style-type: square;
 }
 
-ul li a {
+details {
+  margin-bottom: 0.625rem;
+  list-style-type: square;
+}
+
+a {
   text-decoration: none;
   color: blue;
 }
+
+.About_me_details_summary {
+  list-style: none;
+}
+
 
 @media screen and (min-width: 648px) {
   .perfil {
