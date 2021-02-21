@@ -87,6 +87,7 @@ h1 {
 
 p {
   margin-bottom: 1.625rem;
+  line-height: 1.625rem;
 }
 
 ul li {
@@ -126,6 +127,7 @@ a {
     margin-right: 1.875rem;
     text-align: left;
     padding: 2.5rem;
+
     /* border-right: 1px solid lightgrey; */
     border-width: 1px;
     border-style: solid;
