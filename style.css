@@ -112,7 +112,6 @@ a {
 @media screen and (min-width: 648px) {
   .perfil {
     margin: auto;
-    width: 150px;
     display: block;
   }
 
